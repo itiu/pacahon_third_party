@@ -1,4 +1,4 @@
 pacahon_third_party
 ===================
 
-third party lib's for pacahon
+third party libs for pacahon
