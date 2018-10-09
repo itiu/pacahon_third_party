@@ -7,8 +7,6 @@
 	"dependencies": {},
 	"license": "LGPL v3",
 	"buildOptions": ["releaseMode", "optimize", "inline"],
-	"sourceFiles":["lib64/libanl.a", "lib64/libxapian-main.a", 
-			"lib64/libxapian-backend.a", "lib64/libv8_base.a", "lib64/libv8_libbase.a", "lib64/libicui18n.a",
-			 "lib64/libicuuc.a", "lib64/libicudata.a", "lib64/libv8_nosnapshot.a",
-			"lib64/libstdc++.a", "lib64/libuuid.a"]
+	"sourceFiles":["lib64/libanl.a", "lib64/libv8_base.a", "lib64/libv8_libbase.a", "lib64/libicui18n.a",
+			 "lib64/libicuuc.a", "lib64/libicudata.a", "lib64/libv8_nosnapshot.a"]
 }
